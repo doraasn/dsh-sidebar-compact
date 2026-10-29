@@ -155,7 +155,7 @@ window.__ModuleLoader__.load({
             lineHeight: '26px',
             color: 'var(--dsw-alias-label-primary)',
           },
-        }, '侧栏入口'),
+        }, '更多收纳'),
         h('span', {
           style: { fontSize: 13, lineHeight: '20px', color: 'var(--dsw-alias-label-secondary)' },
         }, '勾选的面板显示在侧栏，未勾选的收进侧栏「更多」菜单。'),
@@ -231,6 +231,7 @@ window.__ModuleLoader__.load({
           name: 'settings.section',
           id: 'sidebar-compact',
           order: 210,
+          label: () => '更多收纳',
           inject: () => ({ prefs, getPanels: () => listPanels(ctx) }),
         }, SidebarEntriesSettings));
       },

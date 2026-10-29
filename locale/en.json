@@ -1,6 +1,6 @@
 {
   "meta": {
-    "title": "Sidebar compact",
-    "description": "Keeps Chat as the only sidebar entry and folds the other global panels into the sidebar More menu."
+    "title": "Sidebar Compact",
+    "description": "Keeps only the entries you tick in the sidebar and folds the other global panels into the More menu."
   }
 }

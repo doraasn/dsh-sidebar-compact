@@ -1,7 +1,7 @@
 {
   "name": "dsh-sidebar-compact",
-  "version": "0.1.0",
-  "description": "只保留聊天入口，把其它全局面板收进侧栏「更多」；可在 设置 → 侧栏入口 逐个勾选。",
+  "version": "0.1.1",
+  "description": "DSH 插件「更多收纳」：侧栏只保留勾选的入口，其余全局面板收进「更多」菜单。",
   "type": "module",
   "license": "MIT",
   "author": "Y77H",
