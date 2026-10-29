@@ -1,13 +1,13 @@
-# dsh-sidebar-compact · 更多收纳
+# dsh-sidebar-compact · 侧栏收纳
 
 把侧栏「全局面板」收成一条：只留你想看的入口，其余全部收进侧栏的「更多」菜单。
 
 默认只留「聊天」，插件、跨会话消息、自动化任务等都进「更多」；进哪个、留哪个在
-**设置 → 更多收纳** 里逐个勾选，改完立即生效。
+**设置 → 侧栏收纳** 里逐个勾选，改完立即生效。
 
 ## 安装
 
-DSH 插件市场（索引源 `doraasn/dsh-plugins-index`）搜索「更多收纳」，或直接装：
+DSH 插件市场（索引源 `doraasn/dsh-plugins-index`）搜索「侧栏收纳」，或直接装：
 
 ```
 github:doraasn/dsh-sidebar-compact
@@ -15,7 +15,7 @@ github:doraasn/dsh-sidebar-compact
 
 ## 使用
 
-1. 打开 设置 → 更多收纳。
+1. 打开 设置 → 侧栏收纳。
 2. 勾选要留在侧栏的面板；取消勾选的会出现在侧栏「更多」里，点开照常切换。
 3. 勾选结果保存在本机 `localStorage`（键 `dsh-sidebar-compact:keptPanels`），桌面端和网页端各自保存。
 

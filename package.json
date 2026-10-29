@@ -1,7 +1,7 @@
 {
   "name": "dsh-sidebar-compact",
-  "version": "0.1.1",
-  "description": "DSH 插件「更多收纳」：侧栏只保留勾选的入口，其余全局面板收进「更多」菜单。",
+  "version": "0.1.2",
+  "description": "DSH 插件「侧栏收纳」：侧栏只保留勾选的入口，其余全局面板收进「更多」菜单。",
   "type": "module",
   "license": "MIT",
   "author": "Y77H",
