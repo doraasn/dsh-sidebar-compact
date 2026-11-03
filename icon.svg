@@ -1,12 +1,12 @@
-<svg width="36" height="36" viewBox="0 0 36 36" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Sidebar Compact">
-  <rect x="5.4" y="7" width="25.2" height="22" rx="3.2" fill="url(#sc-panel)" />
-  <path d="M14.4 7v22" stroke="#FFFFFF" stroke-opacity="0.5" stroke-width="1.4" />
-  <path d="M18.6 13.4h7.4M18.6 18h7.4M18.6 22.6h4.8" stroke="#FFFFFF" stroke-width="1.9" stroke-linecap="round" />
-  <path d="m11.6 15.2-2.8 2.8 2.8 2.8" stroke="#FFFFFF" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" />
+﻿<svg width="36" height="36" viewBox="0 0 36 36" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Sidebar Compact">
+  <rect x="6.6" y="7.4" width="22.8" height="21.2" rx="3.4" fill="url(#sc-panel)" />
+  <path d="M15.2 7.4v21.2" stroke="#FFFFFF" stroke-opacity="0.45" stroke-width="1.5" />
+  <path d="M18.9 13.6h6.9M18.9 18h6.9M18.9 22.4h4.6" stroke="#FFFFFF" stroke-width="1.9" stroke-linecap="round" />
+  <path d="m12.2 15.3-2.7 2.7 2.7 2.7" stroke="#FFFFFF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
   <defs>
-    <linearGradient id="sc-panel" x1="8" y1="7" x2="26" y2="29" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#8FC2FF" />
-      <stop offset="1" stop-color="#4661E4" />
+    <linearGradient id="sc-panel" x1="10" y1="7.4" x2="27" y2="28.6" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#7CB7FF" />
+      <stop offset="1" stop-color="#145AF3" />
     </linearGradient>
   </defs>
 </svg>
